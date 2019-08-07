@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Allan&display=swap');
 *{
-  font-family: 'Righteous', cursive;
-  color:whitesmoke;
+    font-family: 'Allan', cursive;
+    color:whitesmoke;
 }
 
 body {
-    background-image: url("Megcitone.webp");
+    background-image: url("Gundam_Origin_3C.png");
   }
 
   .center {
-    background-color: green;
+    background-color: blue;
     margin: auto;
     width: 60%;
-    border: 3px solid #73AD21;
+    border: 3px solid skyblue;
     padding: 10px;
   }
 
