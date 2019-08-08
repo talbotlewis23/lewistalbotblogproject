@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Allan&display=swap');
 *{
-  font-family: 'Righteous', cursive;
+  font-family: 'Allan', cursive;
   color:whitesmoke;
 }
 
@@ -33,6 +33,7 @@ body {
       }
        
       div{
-        font-size: 25px;
+        font-size:25px;
       }
+
       
